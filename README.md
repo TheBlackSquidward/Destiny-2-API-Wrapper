@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the repostitory that holds the code for a custom discord that utilizes the Bungie API to provide real time information and statistics about all things Destiny 2.
+This is the repository that holds the code for a custom discord bot that utilizes the Bungie API to provide real time information and statistics about all things Destiny 2.
 
 #### Features
 
