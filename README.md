@@ -1,8 +1,8 @@
-# Destiny-Bot-Java
+# Destiny 2 API Wrapper
 
 ## Overview
 
-This is the repository that holds the code for a custom discord bot that utilizes the Bungie API to provide real time information and statistics about all things Destiny 2.
+This is the respository that holds the code for a wrapper around the Bungie API that can be used to get real time information and statistics about all things Destiny 2. Currently used in my custom discord bot, SquidwardBot. 
 
 #### Features
 
@@ -18,7 +18,7 @@ This is the repository that holds the code for a custom discord bot that utilize
 
 #### GNU General Public License v3.0
 
-This mod is licenced under the GNU General Public License v3.0. To see the full terms of the licence click [here](https://github.com/TheBlackSquidward/Destiny-Bot-Java/blob/main/LICENSE).
+This mod is licenced under the GNU General Public License v3.0. To see the full terms of the licence click [here](https://github.com/TheBlackSquidward/Destiny-2-API-Wrapper/blob/main/LICENSE).
 
 ***
 
